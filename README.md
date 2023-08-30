@@ -4,3 +4,5 @@ case_yantai: Network system parameters, refered to the template of IEEE bus-syst
 load_data: load data in a typical day
 wind_power_p: predicted wind power in a typical day
 modified wind power: modified wind power data
+
+30 Aug 2023  X.X.L
